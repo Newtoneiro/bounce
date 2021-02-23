@@ -1,2 +1,7 @@
 # bounce
-bouncing ball simulation
+
+
+Bouncing ball simulation
+
+To start simply run main.py.
+
