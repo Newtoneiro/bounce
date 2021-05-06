@@ -10,6 +10,6 @@ terminally what matters is it's final position and time taken to move the ball.
 
 ![image](https://user-images.githubusercontent.com/79509898/117261729-c7584680-ae50-11eb-884c-c00c56f50596.png)
 
-(Its hard to make some valueable screenshoots of the interface thats literally one giant ball)
+(Its hard to make some valuable screenshoots of the interface thats literally one giant ball)
 
 
